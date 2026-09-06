@@ -1,0 +1,24 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB database practice repository covering MongoDB fundamentals, CRUD operations, queries, schema design, relationships, and database integration for MERN stack development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zishan45/MongoDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zishan45/MongoDb/issues"
+  },
+  "homepage": "https://github.com/zishan45/MongoDb#readme",
+  "dependencies": {
+    "mongoose": "^9.9.5"
+  }
+}
